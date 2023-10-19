@@ -1,0 +1,4 @@
+﻿  MLP3.cpp
+C:\Users\hills\source\repos\MLP3\MLP3\MLP3.cpp(31,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hills\source\repos\MLP3\MLP3\MLP3.cpp(74,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MLP3.vcxproj -> C:\Users\hills\source\repos\MLP3\x64\Debug\MLP3.exe
